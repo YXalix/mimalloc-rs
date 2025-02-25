@@ -1,0 +1,8 @@
+[book]
+authors = ["nashzhou"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "Writing a memory allocator in Rust"
+[output.html]
+mathjax-support = true
